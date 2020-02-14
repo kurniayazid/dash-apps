@@ -1,2 +1,3 @@
 # dash-apps
-Working project in dashboard making using Python
+Working project in interactive dashboard using Python-dash
+Wish me luck #lol
